@@ -1,0 +1,2 @@
+# do not vendor hidden directories of dependencies
+node_modules/**/.*
